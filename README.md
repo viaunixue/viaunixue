@@ -20,6 +20,8 @@
 <a href="mailto:hyunjoon.tech@gmail.com">
  <img src="https://img.shields.io/badge/gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jjh19960115@gmail.com"/></a>
 <a href="https://almond0115.tistory.com/">
-<img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/><br>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jjh3543)](https://solved.ac/jjh3543)
 </a>
 </div>
