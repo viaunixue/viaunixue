@@ -1,25 +1,24 @@
 
-### Hi There 👋 
+<div align="center">
+<br><br><br>
 
-📬 Contract Email : jjh3543@naver.com
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=6DC4DBFF&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+JongHyun.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
+
+<br><br><br>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=almond0115&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=6DC4DBFF" width=45.0% />
+</a>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<img src="https://activity-graph.herokuapp.com/graph?username=almond0115&theme=react-dark&bg_color=20232a&hide_border=true&line=6DC4DBFF&color=6DC4DBFF" width=50.3%/>
+</a>
+
 <br><br>
-👨🏻‍💻 Tech Blog : https://almond0115.tistory.com/
-<br><br>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falmond0115%2Fhit-counter&count_bg=%233DB4C8&title_bg=%23555555&icon=askfm.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a> <br>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=almond0115)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**almond0115/almond0115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falmond0115%2Fhit-counter&count_bg=%236DC4DB&title_bg=%23817F7F&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false"/></a> <br>
+ <a href="https://www.instagram.com/viaunixue/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="mailto:hyunjoon.tech@gmail.com">
+ <img src="https://img.shields.io/badge/gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jjh19960115@gmail.com"/></a>
+<a href="https://almond0115.tistory.com/">
+<img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>
+</a>
