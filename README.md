@@ -1,6 +1,6 @@
 
 <div align="center">
-<br><br><br>
+<br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=6DC4DBFF&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80Hi+there%2C+I'm+JongHyun.;Every+day+Fac,+si+facis+%E3%80%80)](https://git.io/typing-svg)
 
@@ -14,7 +14,10 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=almond0115&theme=react-dark&bg_color=20232a&hide_border=true&line=6DC4DBFF&color=6DC4DBFF" width=50.3%/>
 </a>
 
+
+
 <br><br>
+
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falmond0115%2Fhit-counter&count_bg=%236DC4DB&title_bg=%23817F7F&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false"/></a> 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jjh3543)](https://solved.ac/jjh3543)<br>
@@ -24,4 +27,4 @@
 <a href="https://almond0115.tistory.com/">
 <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/><br>
 </a>
-</div>
+
