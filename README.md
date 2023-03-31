@@ -4,11 +4,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=6DC4DBFF&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80Hi+there%2C+I'm+JongHyun.;Every+day+Fac,+si+facis+%E3%80%80)](https://git.io/typing-svg)
 
-<!-- <br> -->
+<br>
 
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=almond0115&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=6DC4DBFF" width=45.0% />
-</a> -->
+</a>
 
 <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://activity-graph.herokuapp.com/graph?username=almond0115&theme=react-dark&bg_color=20232a&hide_border=true&line=6DC4DBFF&color=6DC4DBFF" width=50.3%/>
