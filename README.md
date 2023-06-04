@@ -20,10 +20,10 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falmond0115%2Fhit-counter&count_bg=%236DC4DB&title_bg=%23817F7F&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false"/></a> 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jjh3543)](https://solved.ac/jjh3543)<br>
- <a href="https://www.instagram.com/viaunixue/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<!--  <a href="https://www.instagram.com/viaunixue/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:hyunjoon.tech@gmail.com">
  <img src="https://img.shields.io/badge/gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jjh19960115@gmail.com"/></a>
-<a href="https://almond0115.tistory.com/">
-<img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/><br>
+<a href="https://almond0115.tistory.com/"> -->
+<!-- <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/><br> -->
 </a>
 
