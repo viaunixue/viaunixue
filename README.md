@@ -19,22 +19,15 @@
 
 <a> skills </a>
 
-<!-- 자바  -->
-<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/> 
-<!--  KOTLIN -->
-<img src="https://img.shields.io/badge/Kotlin-7952B3?style=flat-square&logo=Kotlin&logoColor=white"/>
 <!--  Android-->
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 <br>
-<!--  DB --><img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<!--  IntelliJ --><img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white"/>
-<!--  Android Studio --><img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=white"/>
-<!--  GitHub --><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+<!-- 자바  -->
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/> 
+<!--  KOTLIN -->
+<img src="https://img.shields.io/badge/Kotlin-7952B3?style=flat-square&logo=Kotlin&logoColor=white"/>
 
-<br>
-<!--  Amazon_AWS --><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
-<!--  Postman --><img src="https://img.shields.io/badge/Postman-fc5c34?style=flat-square&logo=Postman&logoColor=white"/>
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falmond0115%2Fhit-counter&count_bg=%236DC4DB&title_bg=%23817F7F&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false"/></a> 
 <!--[![Solved.ac
