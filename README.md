@@ -1,8 +1,7 @@
 
 <div align="center">
-<br><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=6DC4DBFF&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80Hi+there%2C+I'm+JongHyun.;Every+day+Fac,+si+facis+%E3%80%80)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=6DC4DBFF&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80Hi+there%2C+I'm+JongHyun.;Every+day+Fac,+si+facis+%E3%80%80)](https://git.io/typing-svg)-->
   
 
 <!--<a href="https://github.com/anuraghazra/github-readme-stats">
