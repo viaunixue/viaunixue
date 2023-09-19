@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=6DC4DBFF&size=35&width=500&height=53&lines=Hi+there%2C+I'm+Backend+Developer.;Every+day+Fac,+si+facis%E3%80%80)](https://git.io/typing-svg)
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> &nbsp; **안녕하세요 자바 백엔드 개발자 정종현입니다** <br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> &nbsp; **안녕하세요, 자바 백엔드 개발자 정종현입니다.** <br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 
 **주어진 환경에서 최선의 차선책을 통해 발견한 가치있는 것을 개발합니다.**
 
