@@ -10,8 +10,8 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falmond0115%2Fhit-counter&count_bg=%236DC4DB&title_bg=%23817F7F&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false"/></a> 
 
 
-<div>
-   <h3> 💪 &nbsp; What I'm learning now </h3>
+<details>
+   <summary> 💪 &nbsp; <strong> What I'm learning now </strong> </summary>
    <!--
    <code><img height="35" src="https://skills.thijs.gg/icons?i=java&theme=light"></code>
    <code><img height="35" src="https://skills.thijs.gg/icons?i=python&theme=light"></code>
@@ -24,6 +24,8 @@
    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"></code>
    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
    <br> -->
+   <br>
+   
    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
    <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white">
    <img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white">
@@ -52,10 +54,11 @@
    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" />
    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white" />-->
-</div>
+</details>
 
-<div>
-   <h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="2%" /> Things I want to learn </h3>
+<details>
+   <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="2%" /> <strong>Things I want to learn</strong> </summary>
+   <br>
    <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat&logo=Spring&logoColor=black"> 
    <img src="https://img.shields.io/badge/Spring MVC-6DB33F?style=flat&logo=Spring&logoColor=black"> 
    <img src="https://img.shields.io/badge/Spring Webflux-6DB33F?style=flat&logo=React&logoColor=black">
@@ -70,8 +73,8 @@
    <br> 
    <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white">
    <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=black">
-   <br>
    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
+   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB">
 <!--    <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white" /> -->
    <br>
    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white" />
@@ -85,7 +88,7 @@
    <img src="https://img.shields.io/badge/GRPC-00ADD8?style=flat&logo=&logoColor=black"> 
    <img src="https://img.shields.io/badge/Armeria-F75690?style=flat&logo=armeria&logoColor=black"> 
    <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=black"> 
-</div>
+</details>
 
 ### Github Status
 
