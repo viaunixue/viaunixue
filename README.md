@@ -2,17 +2,26 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=6DC4DBFF&size=35&width=500&height=53&lines=Hi+there%2C+I'm+Backend+Developer.;Every+day+Fac,+si+facis%E3%80%80)](https://git.io/typing-svg)
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> &nbsp; 안녕하세요, 자바 백엔드 개발자 **정종현**입니다. <br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> &nbsp; Hi, I'm JongHyun <br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 
-**주어진 환경에서 최선의 차선책으로 가치있는 것을 개발합니다.**
+**I develop something of value as best I can in a given environment.** <br>
+📖  &nbsp;&nbsp;  I’m currently studying Socket Programming and Algorithm now.
 
-
+---
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falmond0115%2Fhit-counter&count_bg=%236DC4DB&title_bg=%23817F7F&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false"/></a> 
 
 
 <details>
    <summary> 💪 &nbsp; <strong> What I'm learning now </strong> </summary>
    <!--
+   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> 
+   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> 
+   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> 
+   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=Numpy&logoColor=white"> 
+   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white"> 
+   <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=black">  
+   <img src="https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge&logo=Poetry&logoColor=black">  
    <code><img height="35" src="https://skills.thijs.gg/icons?i=java&theme=light"></code>
    <code><img height="35" src="https://skills.thijs.gg/icons?i=python&theme=light"></code>
    <code><img height="35" src="https://skills.thijs.gg/icons?i=kotlin&theme=light"></code>
