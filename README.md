@@ -7,9 +7,9 @@
 **I develop something of value as best I can in a given environment.** <br>
 📖  &nbsp;&nbsp;  I’m currently studying Socket Programming and Algorithm now.
 
----
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falmond0115%2Fhit-counter&count_bg=%236DC4DB&title_bg=%23817F7F&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false"/></a> 
 
+---
 
 <details>
    <summary> 💪 &nbsp; <strong> What I'm learning now </strong> </summary>
