@@ -39,14 +39,17 @@
    <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white">
    <img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white">
    <img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
+   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white">
    <br>
    <!-- <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"> -->
    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white">
+   <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat&logo=Spring&logoColor=black"> 
+   <img src="https://img.shields.io/badge/Spring MVC-6DB33F?style=flat&logo=Spring&logoColor=black"> 
    <br>
    <img src="https://img.shields.io/badge/AWS EC2-FFB71B?style=flat&logo=Amazon AWS&logoColor=black"> 
    <img src="https://img.shields.io/badge/AWS RDS-FFB71B?style=flat&logo=Amazon AWS&logoColor=black">
    <br>
-   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white">
+   <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white">
    <img src="https://img.shields.io/badge/html-E34F26?style=flat&logo=html5&logoColor=white">
    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
    <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white">
@@ -68,8 +71,6 @@
 <details>
    <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="2%" /> <strong>Things I want to learn</strong> </summary>
    <br>
-   <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat&logo=Spring&logoColor=black"> 
-   <img src="https://img.shields.io/badge/Spring MVC-6DB33F?style=flat&logo=Spring&logoColor=black"> 
    <img src="https://img.shields.io/badge/Spring Webflux-6DB33F?style=flat&logo=React&logoColor=black">
    <br>
    <img src="https://img.shields.io/badge/AWS ROUTE53-FFB71B?style=flat&logo=Amazon AWS&logoColor=black">  
@@ -80,7 +81,6 @@
    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"> 
    <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat&logo=Apache Kafka&logoColor=white">
    <br> 
-   <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white">
    <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=black">
    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
    <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB">
