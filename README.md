@@ -13,7 +13,7 @@
 ---
 
 <details>
-<summary> 🏃 &nbsp; <strong> What I've done before </strong> </summary>
+<summary> 🥇 &nbsp; <strong> What I've done before </strong> </summary>
 
 </details>
 
