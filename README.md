@@ -13,6 +13,11 @@
 ---
 
 <details>
+<summary> 🏃 &nbsp; <strong> What I've done before </strong> </summary>
+
+</details>
+
+<details>
    <summary> 💪 &nbsp; <strong> What I'm learning now </strong> </summary>
    <!--
    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> 
@@ -70,7 +75,7 @@
 </details>
 
 <details>
-   <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="2%" /> <strong>Things I want to learn</strong> </summary>
+   <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="2%" /> &nbsp;<strong>What I want to learn</strong> </summary>
    <br>
    <img src="https://img.shields.io/badge/Spring Webflux-6DB33F?style=flat&logo=React&logoColor=black">
    <br>
@@ -98,13 +103,6 @@
    <img src="https://img.shields.io/badge/GRPC-00ADD8?style=flat&logo=&logoColor=black"> 
    <img src="https://img.shields.io/badge/Armeria-F75690?style=flat&logo=armeria&logoColor=black"> 
    <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=black"> 
-</details>
-
-<details>
-   <summary> 🏃 &nbsp; <strong> What I'm Doing‍ now </strong> </summary>
-
-
-
 </details>
 
 <br>
