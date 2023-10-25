@@ -14,7 +14,12 @@
 
 <details>
 <summary> 🥇 &nbsp; <strong> What I've done before </strong> </summary>
-
+   <br>
+   
+   |참가 기간|참가 내용|참가 결과|
+   |:---:|---|---|
+   | 2023.10.16 ~ 2023.10.21| 제 1회 ICP ABC 아카데미 해커톤 블록체인 대회 |🏆 우승|
+   
 </details>
 
 <details>
