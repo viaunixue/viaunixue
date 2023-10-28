@@ -7,6 +7,17 @@
 **I develop something of value as best I can in a given environment.** <br>
 📖  &nbsp;&nbsp;  I’m currently studying Socket Programming and AWS now.
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/almond0115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nicolacastellanidev" height="30" width="40" /></a>
+<a href="https://dev.to/almond0115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nicolalc" height="30" width="40" /></a>
+<a href="https://twitter.com/almond0115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amazingsurpr1se" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jonghyunjung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicola-castellani-313b9084" height="30" width="40" /></a>
+<a href="https://instagram.com/viaunixue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="viaunixue" height="30" width="40" /></a>
+<a href="https://medium.com/@viaunixue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@viaunixue" height="30" width="40" /></a>
+<a href="https://discord.gg/Z8hMVTFz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5935" height="30" width="40" /></a>
+</p>
+
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falmond0115%2Fhit-counter&count_bg=%236DC4DB&title_bg=%23817F7F&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false"/></a> 
 <a href="https://wakatime.com/@a5e4e091-a753-4fe4-b8d3-62921a69d04a"><img src="https://wakatime.com/badge/user/a5e4e091-a753-4fe4-b8d3-62921a69d04a.svg" alt="Total time coded since Nov 21 2022" /></a>
 
