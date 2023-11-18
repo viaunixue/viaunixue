@@ -1,8 +1,8 @@
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=6DC4DBFF&size=35&width=800&height=53&lines=What+I+cannot+create,+I+don't+understand.;Every+day+Fac,+si+facis%E3%80%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=6DC4DBFF&size=35&width=800&height=53&lines=Always+happy+junior+Full+Stack+Developer;Every+day+Fac,+si+facis%E3%80%80)](https://git.io/typing-svg)
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> &nbsp; Hi, I'm JongHyun <br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> &nbsp; Hi there, I'm JongHyun. I graduated from Myongji University with a major in Computer Science.<br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 
 **I develop something of value as best I can in a given environment.** <br>
 📖  &nbsp;&nbsp;  I’m currently studying Socket Programming and AWS now.
@@ -139,12 +139,12 @@
    <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=black"> 
 </details>
 
+<details>
+   <summary> 🍭 &nbsp; <strong> What I've done on Github </strong> </summary>
+   <br>
+   <!--![almond's github stats](https://github-readme-stats.vercel.app/api?username=almond0115&show_icons=true&theme=merko)-->
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almond0115&layout=compact&langs_count=8&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=almond0115&show_icons=true&theme=tokyonight"/>
+   <img height="380em" src="https://stats.dooboo.io/api/github-stats-advanced?login=almond0115"/>
+</details>
 <br>
-<!--![almond's github stats](https://github-readme-stats.vercel.app/api?username=almond0115&show_icons=true&theme=merko)-->
-<p aligin="center">
-    <a href="https://github.com/almond0115">
-        <!--<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=almond0115&layout=compact&langs_count=8&theme=tokyonight"/>-->
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almond0115&layout=compact&langs_count=8&theme=tokyonight"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=almond0115&show_icons=true&theme=tokyonight"/>
-    </a>
-</p>
