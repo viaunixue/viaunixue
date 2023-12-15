@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> &nbsp; Hi there, I'm JongHyun. <br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 
 **I do my best to develop something of value in a given environment.** <br>
-📖  &nbsp;&nbsp;  I’m currently studying Load Balancer and Message Queue now.
+📖  &nbsp;&nbsp;  I’m currently studying Deep learning and AWS certification now.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
