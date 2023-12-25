@@ -85,7 +85,6 @@
    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white">
    <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat&logo=Spring&logoColor=black"> 
    <img src="https://img.shields.io/badge/Spring MVC-6DB33F?style=flat&logo=Spring&logoColor=black"> 
-   <br>
    <img src="https://img.shields.io/badge/AWS EC2-FFB71B?style=flat&logo=Amazon AWS&logoColor=black"> 
    <img src="https://img.shields.io/badge/AWS RDS-FFB71B?style=flat&logo=Amazon AWS&logoColor=black">
    <br>
@@ -93,11 +92,16 @@
    <img src="https://img.shields.io/badge/html-E34F26?style=flat&logo=html5&logoColor=white">
    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
    <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white">
+   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=black">
+   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
+   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB">
    <br>
    <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white">
    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"> 
    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"> 
    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"> 
+   <img src="https://img.shields.io/badge/S3-569A31?style=flat&logo=Amazon S3&logoColor=white"> 
+   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"> 
    <br>
    <!--<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white" />
    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
@@ -118,23 +122,16 @@
    <img src="https://img.shields.io/badge/AWS ROUTE53-FFB71B?style=flat&logo=Amazon AWS&logoColor=black">  
    <img src="https://img.shields.io/badge/AWS BEANSTALK-FFB71B?style=flat&logo=Amazon AWS&logoColor=black"> 
    <img src="https://img.shields.io/badge/AWS ECR-FFB71B?style=flat&logo=Amazon AWS&logoColor=black">
-   <br>
 <!--    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"> 
    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white">  -->
-   <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat&logo=Apache Kafka&logoColor=white">
-   <br> 
-   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=black">
-   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
-   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB">
 <!--    <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white" /> -->
    <br>
    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white" />
    <img src="https://img.shields.io/badge/MongoDB-6DB33F?style=flat&logo=mongodb&logoColor=black">
    <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=Amazon DynamoDB&logoColor=white"> 
    <br>
-   <img src="https://img.shields.io/badge/S3-569A31?style=flat&logo=Amazon S3&logoColor=white"> 
-   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"> 
    <img src="https://img.shields.io/badge/Elasticsearch-00ADD8?style=flat&logo=Elasticsearch&logoColor=black"> 
+   <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat&logo=Apache Kafka&logoColor=white">
    <br>
    <img src="https://img.shields.io/badge/GRPC-00ADD8?style=flat&logo=&logoColor=black"> 
    <img src="https://img.shields.io/badge/Armeria-F75690?style=flat&logo=armeria&logoColor=black"> 
