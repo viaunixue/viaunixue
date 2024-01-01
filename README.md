@@ -142,7 +142,7 @@
    <summary> 🍭 &nbsp; <strong> What I've done on Github </strong> </summary>
    <br>
    <!--![almond's github stats](https://github-readme-stats.vercel.app/api?username=almond0115&show_icons=true&theme=merko)-->
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almond0115&layout=compact&langs_count=8&theme=tokyonight"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=almond0115&show_icons=true&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viaunixue&layout=compact&langs_count=8&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viaunixue&show_icons=true&theme=tokyonight"/>
    <!--    <img height="380em" src="https://stats.dooboo.io/api/github-stats-advanced?login=almond0115"/> -->
 </details>
