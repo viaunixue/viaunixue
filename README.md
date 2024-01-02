@@ -1,22 +1,20 @@
-<br>
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=6DC4DBFF&size=35&width=800&height=53&lines=Every+day+Fac,+si+facis%E3%80%80)](https://git.io/typing-svg)-->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=6DC4DBFF&size=35&width=800&height=53&lines=Every+day+Fac,+si+facis%E3%80%80)](https://git.io/typing-svg)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="2%" height="25" /> I’m Junior Back-end Developer JongHyunJung. <br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> I’m interested in `Java`, `Kotlin`,`Spring`, `Architecture` and `OOP` <br>
+📫 &nbsp;Mail: jjh19960115@gmail.com <br>
+📖 &nbsp;Log: [Blog](https://nero-coding.blog/)
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> &nbsp; Hi there, I'm Nero. <br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 
-**I do my best to develop something of value in a given environment.** <br>
-📖  &nbsp;&nbsp;  I’m currently studying Deep learning and AWS certification now.
-
-<h3 align="left">Connect with me:</h3>
+<!--<h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="https://codepen.io/almond0115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nicolacastellanidev" height="30" width="40" /></a>
-<a href="https://dev.to/almond0115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nicolalc" height="30" width="40" /></a> -->
+<a href="https://codepen.io/almond0115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nicolacastellanidev" height="30" width="40" /></a>
+<a href="https://dev.to/almond0115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nicolalc" height="30" width="40" /></a>
 <a href="https://twitter.com/almond0115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amazingsurpr1se" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/jonghyunjung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicola-castellani-313b9084" height="30" width="40" /></a>
 <a href="https://instagram.com/viaunixue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="viaunixue" height="30" width="40" /></a>
 <a href="https://medium.com/@viaunixue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@viaunixue" height="30" width="40" /></a>
 <a href="https://discord.gg/Z8hMVTFz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5935" height="30" width="40" /></a>
-</p>
+</p>-->
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falmond0115%2Fhit-counter&count_bg=%236DC4DB&title_bg=%23817F7F&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false"/></a> 
 <a href="https://wakatime.com/@a5e4e091-a753-4fe4-b8d3-62921a69d04a"><img src="https://wakatime.com/badge/user/a5e4e091-a753-4fe4-b8d3-62921a69d04a.svg" alt="Total time coded since Nov 21 2022" /></a>
