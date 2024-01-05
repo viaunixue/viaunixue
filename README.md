@@ -26,8 +26,10 @@
    <br>
    
    |참가 기간|참가 내용|참가 결과|
-   |:---:|---|---|
-   | 2023.10.16 ~ 2023.10.21| 제 1회 ICP ABC 아카데미 해커톤 블록체인 대회 |🏆 [우승](https://github.com/almond0115/2023_ICP_hackathon)|
+   |:---:|:---:|:---:|
+   | 2024.01.02 ~ 2024.02.26 | LG Aimers 4기 해커톤 | |
+   | 2023.10.19 ~ 2023.11.15 | 우아한 테크코스 6기 프리코스 | :tada: [수료](https://github.com/viaunixue/woowa-precourse) |
+   | 2023.10.16 ~ 2023.10.21 | 제 1회 ICP ABC 아카데미 블록체인 해커톤 | 🏆 [우승](https://github.com/almond0115/2023_ICP_hackathon)|
    
 </details>
 
