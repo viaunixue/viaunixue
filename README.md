@@ -1,7 +1,7 @@
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=6DC4DBFF&size=35&width=800&height=53&lines=Every+day+Fac,+si+facis%E3%80%80)](https://git.io/typing-svg)-->
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="2%" height="25" /> I’m Junior Back-end Developer JongHyun Jung. <br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> I’m interested in `Java`, `Kotlin`,`Spring`, `Architecture` and `OOP` <br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="2%" height="25" /> I’m Junior Full Stack Developer JongHyun Jung. <br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> I’m currently studying Deep learning and AWS certification now <br>
 📫 &nbsp;Mail: jjh19960115@gmail.com <br>
 📖 &nbsp;Log: [Blog](https://nero-coding.blog/)
 
