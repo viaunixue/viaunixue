@@ -2,8 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="2%" height="25" /> I’m Junior Full Stack Developer JongHyun Jung. <br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> I’m currently studying Deep learning and AWS certification now <br>
-📫 &nbsp;Mail: jjh19960115@gmail.com <br>
-📖 &nbsp;Log: [Blog](https://nero-coding.blog/)
+<!-- 📫 &nbsp;Mail: jjh19960115@gmail.com <br> -->
+<!-- 📖 &nbsp;Log: [Blog](https://nero-coding.blog/) -->
 
 <!--<h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,7 +15,8 @@
 <a href="https://medium.com/@viaunixue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@viaunixue" height="30" width="40" /></a>
 <a href="https://discord.gg/Z8hMVTFz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5935" height="30" width="40" /></a>
 </p>-->
-
+<a href="mailto:jjh3543@naver.com" target="_blank"><img src="https://img.shields.io/badge/jjh3543@naver.com-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://nero-coding.blog" target="_blank"><img src="https://img.shields.io/badge/Blog | devlog-371F76?style=flat&logo=Heart&logoColor=white"/></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falmond0115%2Fhit-counter&count_bg=%236DC4DB&title_bg=%23817F7F&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false"/></a> 
 <a href="https://wakatime.com/@a5e4e091-a753-4fe4-b8d3-62921a69d04a"><img src="https://wakatime.com/badge/user/a5e4e091-a753-4fe4-b8d3-62921a69d04a.svg" alt="Total time coded since Nov 21 2022" /></a>
 
@@ -118,7 +119,6 @@
    <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="2%" /> &nbsp;<strong>What I want to learn</strong> </summary>
    <br>
    <img src="https://img.shields.io/badge/Spring Webflux-6DB33F?style=flat&logo=React&logoColor=black">
-   <br>
    <img src="https://img.shields.io/badge/AWS ROUTE53-FFB71B?style=flat&logo=Amazon AWS&logoColor=black">  
    <img src="https://img.shields.io/badge/AWS BEANSTALK-FFB71B?style=flat&logo=Amazon AWS&logoColor=black"> 
    <img src="https://img.shields.io/badge/AWS ECR-FFB71B?style=flat&logo=Amazon AWS&logoColor=black">
@@ -132,7 +132,6 @@
    <br>
    <img src="https://img.shields.io/badge/Elasticsearch-00ADD8?style=flat&logo=Elasticsearch&logoColor=black"> 
    <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat&logo=Apache Kafka&logoColor=white">
-   <br>
    <img src="https://img.shields.io/badge/GRPC-00ADD8?style=flat&logo=&logoColor=black"> 
    <img src="https://img.shields.io/badge/Armeria-F75690?style=flat&logo=armeria&logoColor=black"> 
    <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=black"> 
