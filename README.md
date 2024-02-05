@@ -1,7 +1,7 @@
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=6DC4DBFF&size=35&width=800&height=53&lines=Every+day+Fac,+si+facis%E3%80%80)](https://git.io/typing-svg)-->
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="2%" height="25" /> I’m Junior Full Stack Developer JongHyun Jung. <br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> I’m currently studying Deep learning and AWS certification now <br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> I’m currently studying Deep learning and Algorithm now <br>
 <!-- 📫 &nbsp;Mail: jjh19960115@gmail.com <br> -->
 <!-- 📖 &nbsp;Log: [Blog](https://nero-coding.blog/) -->
 
@@ -28,10 +28,12 @@
    
    |참가 기간|참가 내용|참가 결과|
    |:---:|:---:|:---:|
+   | 2024.02.17 ~ 2024.05.12 | 정보 처리 기사 | |
    | 2024.01.02 ~ 2024.02.26 | LG Aimers 4기 해커톤 | |
    | 2023.10.19 ~ 2023.11.15 | 우아한 테크코스 6기 프리코스 | :tada: [수료](https://github.com/viaunixue/woowa-precourse) |
    | 2023.10.16 ~ 2023.10.21 | 제 1회 ICP ABC 아카데미 블록체인 해커톤 | 🏆 [우승](https://github.com/almond0115/2023_ICP_hackathon)|
-   
+   | 2023.09.03 ~ 2023.12.11 | 백엔드 프로그래밍 학습 및 토이 프로젝트 | :tada: [완강](https://github.com/viaunixue/mju-backend-dev) |
+   | 2023.03.21 ~ 2023.06.12 | 캡스톤 디자인 (반려동물 산책 도우미 App)  | 🏆 [3등](https://github.com/viaunixue/MyPetRoadApp)|
 </details>
 
 <details>
