@@ -23,7 +23,7 @@
 ---
 
 <details>
-<summary> &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Seedling.webp" alt="Seedling" width="25" height="25" /> <strong> What I've done before </strong> </summary>
+<summary> &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Seedling.webp" alt="Seedling" width="20" height="20" /> <strong> What I've done before </strong> </summary>
    <br> 
    <blockquote>
       <table>
@@ -70,7 +70,7 @@
    | 2023.03.21 ~ 2023.06.12 | 캡스톤 디자인 (반려동물 산책 도우미 App)  | 🥉 [3등](https://github.com/viaunixue/MyPetRoadApp)| -->
 
 <details>
-   <summary> &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" /> <strong> What Tech Stacks I have </strong> </summary>
+   <summary> &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="20" /> <strong> What Tech Stacks I have </strong> </summary>
    <!--
    <br>
    <blockquote>
@@ -256,7 +256,7 @@
 </details> -->
 
 <details>
-   <summary> &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Magnifying%20Glass%20Tilted%20Left.webp" alt="Magnifying Glass Tilted Left" width="25" height="25" /> <strong> What My records on Github </strong> </summary>
+   <summary> &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Magnifying%20Glass%20Tilted%20Left.webp" alt="Magnifying Glass Tilted Left" width="20" height="20" /> <strong> What My records on Github </strong> </summary>
    <br>
    <!--![almond's github stats](https://github-readme-stats.vercel.app/api?username=almond0115&show_icons=true&theme=merko)-->
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viaunixue&layout=compact&langs_count=8&theme=tokyonight"/>
