@@ -157,7 +157,7 @@
    <blockquote>
    <!-- OS : <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
    <br>-->
-   Language : 
+   Language &nbsp; &nbsp; &nbsp;
    <img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white">
    <img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
    <img src="https://img.shields.io/badge/html-E34F26?style=flat&logo=html5&logoColor=white">
@@ -167,19 +167,19 @@
    <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white">
       
    <br>
-   Cloud Infra :
+   Cloud Infra &nbsp; &nbsp;
    <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat&logo=Amazon%20EC2&logoColor=white">
    <img src="https://img.shields.io/badge/AWS RDS-FFB71B?style=flat&logo=Amazon AWS&logoColor=black">
    <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat&logo=Amazon%20S3&logoColor=white">
 
    <br>
-   Server :
+   Server &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
    <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black">
    <!-- <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white"> -->
    <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white">
 
    <br>
-   Framework : 
+   Framework &nbsp; &nbsp;
    <!-- <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=black"> -->
    <!-- <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"> -->
    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white">
@@ -188,30 +188,30 @@
    <!--<img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat&logo=Spring&logoColor=black"> --> 
    <!--<img src="https://img.shields.io/badge/Spring MVC-6DB33F?style=flat&logo=Spring&logoColor=black"> --> 
    <br>
-   Database &nbsp; :
+   Database &nbsp; &nbsp; &nbsp; &nbsp;
    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
    <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white">
    <img src="https://img.shields.io/badge/planetscale-%23000000.svg?style=flat&logo=planetscale&logoColor=white">
    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white">
    
    <br>
-   CI/CD :
+   CI/CD &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
    <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat&logo=GitHub Actions&logoColor=white">
 
    <br>
-   ORM :
+   ORM &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
    <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat&logo=Spring&logoColor=black">
    <img src="https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white">
    
    <br>
-   AI/ML :
+   AI/ML &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
    <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white">
    <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=Numpy&logoColor=white"> 
    <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white">
    <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=flat&logo=scikitlearn&logoColor=white">
 
    <br>
-   Other :
+   Other &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
    <!--<img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white">
    <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white">
