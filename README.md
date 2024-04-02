@@ -28,8 +28,13 @@
    <blockquote>
       <table>
          <tr>
+            <td align="center">'24.03 ~ '24.04</td>
+            <td align="center">Google Study Jam Gen AI 과정</td>
+            <td align="center"> </td>
+         </tr>
+         <tr>
             <td align="center">'16. 03 ~ '24. 02</td>
-            <td align="center">명지대학교 컴퓨터 공학 학사 </td>
+            <td align="center">명지대학교 컴퓨터 공학 학사</td>
             <td align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" alt="Graduation Cap" width="15" height="15" /> <b>졸업</b> </td>
          </tr>
          <tr>
