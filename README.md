@@ -23,7 +23,7 @@
 ---
 
 <details>
-<summary> &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Seedling.webp" alt="Seedling" width="20" height="20" /> <strong> What I've done before </strong> </summary>
+<summary> &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Seedling.webp" alt="Seedling" width="20" height="20" /> <strong> What I've done so far </strong> </summary>
    <br> 
    <blockquote>
       <table>
