@@ -28,7 +28,7 @@
    <blockquote>
       <table>
          <tr>
-            <td align="center">'24.03 ~ '24.04</td>
+            <td align="center">'24. 03 ~ '24. 04</td>
             <td align="center">Google Study Jam Gen AI 과정</td>
             <td align="center"> </td>
          </tr>
