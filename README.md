@@ -28,6 +28,11 @@
    <blockquote>
       <table>
          <tr>
+            <td align="center">'24. 04 ~ '24. 06</td>
+            <td align="center">Naver Boost Camp AI Tech</td>
+            <td align="center"> </td>
+         </tr>
+         <tr>
             <td align="center">'24. 03 ~ '24. 04</td>
             <td align="center">Google Study Jam Gen AI 과정</td>
             <td align="center"> </td>
