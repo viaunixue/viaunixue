@@ -35,7 +35,7 @@
          <tr>
             <td align="center">'24. 03 ~ '24. 04</td>
             <td align="center">Google Study Jam Gen AI 과정</td>
-            <td align="center"> </td>
+            <td align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="15" height="15" /> <a href="https://github.com/viaunixue/ai-study"/> 수료 </td>
          </tr>
          <tr>
             <td align="center">'16. 03 ~ '24. 02</td>
