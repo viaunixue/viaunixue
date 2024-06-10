@@ -30,7 +30,7 @@
          <tr>
             <td align="center">'24. 04 ~ '24. 06</td>
             <td align="center">Naver Boost Camp AI Tech</td>
-            <td align="center"> </td>
+            <td align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="15" height="15" /> <a href="https://github.com/viaunixue/ai-study"/> 수료 </td>
          </tr>
          <tr>
             <td align="center">'24. 03 ~ '24. 04</td>
