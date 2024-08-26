@@ -28,6 +28,11 @@
    <blockquote>
       <table>
          <tr>
+            <td align="center">'24. 06 ~ '24. 09</td>
+            <td align="center">Chzz Market 경매 플랫폼 개발</td>
+            <td align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="15" height="15" /> <a href="https://github.com/CHZZK-Study/Chzz-Market-Backend"/>배포</td>
+         </tr>
+         <tr>
             <td align="center">'24. 04 ~ '24. 06</td>
             <td align="center">Naver Boost Camp AI Tech</td>
             <td align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="15" height="15" /> <a href="https://github.com/viaunixue/ai-study"/> 수료 </td>
@@ -65,7 +70,7 @@
          <tr>
             <td align="center">'23. 03 ~ '23. 06</td>
             <td align="center">캡스톤 디자인 반려동물 산책 도우미 서비스</td>
-            <td align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/3rd%20Place%20Medal.webp" alt="3rd Place Medal" width="15" height="15" /> <a href="https://github.com/viaunixue/MyPetRoadApp"/>수료</a></td>
+            <td align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/3rd%20Place%20Medal.webp" alt="3rd Place Medal" width="15" height="15" /> <a href="https://github.com/viaunixue/MyPetRoadApp"/>배포</a></td>
          </tr>
       </table>
    </blockquote>
