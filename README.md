@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="20" /> I’m currently studying AWS Cloud Infra and Algorithm now 
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,kotlin,py,mysql,redis,docker,fastapi,obsidian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,kotlin,py,mysql,sqlite,redis,docker,fastapi,jenkins,nginx)](https://skillicons.dev)
 <!-- 📫 &nbsp;Mail: jjh19960115@gmail.com <br> -->
 <!-- 📖 &nbsp;Log: [Blog](https://nero-coding.blog/) -->
 
