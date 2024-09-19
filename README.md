@@ -5,8 +5,6 @@
 
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,kotlin,py,mysql,sqlite,redis,docker,fastapi,jenkins,nginx)](https://skillicons.dev)
-<!-- 📫 &nbsp;Mail: jjh19960115@gmail.com <br> -->
-<!-- 📖 &nbsp;Log: [Blog](https://nero-coding.blog/) -->
 
 ---
 
@@ -64,87 +62,6 @@
    </blockquote>
 </details>
 
-<!-- <details>
-   <summary> &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="20" /> <strong> What Tech Stacks I have </strong> </summary>
-   <br>
-   <blockquote>
-   Language &nbsp; &nbsp; &nbsp;
-   <img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white">
-   <img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
-   <img src="https://img.shields.io/badge/html-E34F26?style=flat&logo=html5&logoColor=white">
-   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-   <img src="https://img.shields.io/badge/java-007396?style=flat&logo=OpenJDK&logoColor=white">
-   <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
-   <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white">
-      
-   <br>
-   Cloud Infra &nbsp; &nbsp;
-   <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat&logo=Amazon%20EC2&logoColor=white">
-   <img src="https://img.shields.io/badge/AWS RDS-FFB71B?style=flat&logo=Amazon AWS&logoColor=black">
-   <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat&logo=Amazon%20S3&logoColor=white">
-
-   <br>
-   Server &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-   <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black">
-   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white">
-
-   <br>
-   Framework &nbsp; &nbsp;
-   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white">
-   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white">
-   <img src="https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101">
-   <br>
-   Database &nbsp; &nbsp; &nbsp; &nbsp;
-   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
-   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white">
-   <img src="https://img.shields.io/badge/planetscale-%23000000.svg?style=flat&logo=planetscale&logoColor=white">
-   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white">
-   
-   <br>
-   CI/CD &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat&logo=GitHub Actions&logoColor=white">
-
-   <br>
-   ORM &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
-   <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat&logo=Spring&logoColor=black">
-   <img src="https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white">
-   
-   <br>
-   AI/ML &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-   <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white">
-   <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=Numpy&logoColor=white"> 
-   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white">
-   <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=flat&logo=scikitlearn&logoColor=white">
-
-   <br>
-   Other &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
-   </blockquote>
-</details>
-
-<!--
-<details>
-   <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="2%" /> &nbsp;<strong>What I want to learn</strong> </summary>
-   <br>
-   <img src="https://img.shields.io/badge/Spring Webflux-6DB33F?style=flat&logo=React&logoColor=black">
-   <img src="https://img.shields.io/badge/AWS ROUTE53-FFB71B?style=flat&logo=Amazon AWS&logoColor=black">  
-   <img src="https://img.shields.io/badge/AWS BEANSTALK-FFB71B?style=flat&logo=Amazon AWS&logoColor=black"> 
-   <img src="https://img.shields.io/badge/AWS ECR-FFB71B?style=flat&logo=Amazon AWS&logoColor=black">
-   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"> 
-   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white">  
-   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white" /> 
-   <br>
-   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white" />
-   <img src="https://img.shields.io/badge/MongoDB-6DB33F?style=flat&logo=mongodb&logoColor=black">
-   <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=Amazon DynamoDB&logoColor=white"> 
-   <br>
-   <img src="https://img.shields.io/badge/Elasticsearch-00ADD8?style=flat&logo=Elasticsearch&logoColor=black"> 
-   <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat&logo=Apache Kafka&logoColor=white">
-   <img src="https://img.shields.io/badge/GRPC-00ADD8?style=flat&logo=&logoColor=black"> 
-   <img src="https://img.shields.io/badge/Armeria-F75690?style=flat&logo=armeria&logoColor=black"> 
-   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=black"> 
-</details> -->
-
 <details>
    <summary> &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="20" height="20" /> <strong> Connect with me </strong> </summary>
    <br>
@@ -175,11 +92,11 @@
 
    </p>
    <a href="https://github.com/devxb/gitanimals">
-   <img
-     src="https://render.gitanimals.org/farms/viaunixue"
-     width="600"
-     height="300"
-   />
+      <img
+        src="https://render.gitanimals.org/farms/viaunixue"
+        width="600"
+        height="300"
+      />
    </a>
    <p align="left">
    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falmond0115%2Fhit-counter&count_bg=%236DC4DB&title_bg=%23817F7F&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false"/></a> 
