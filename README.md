@@ -7,7 +7,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,kotlin,py,mysql,sqlite,redis,docker,fastapi,jenkins,nginx)](https://skillicons.dev)
 
 ---
-
+<!--
 <details>
 <summary> &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Seedling.webp" alt="Seedling" width="20" height="20" /> <strong> What I've done so far </strong> </summary>
    <br> 
@@ -78,6 +78,7 @@
    <a href="mailto:jjh3543@naver.com" target="_blank"><img src="https://img.shields.io/badge/jjh3543@naver.com-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
    <a href="https://nero-coding.blog" target="_blank"><img src="https://img.shields.io/badge/Blog | nero.devlog-371F76?style=flat&logo=Heart&logoColor=black"/></a>
 </details>
+-->
 
    
 <details>
